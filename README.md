@@ -17,9 +17,11 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
    - <https://blogs.aws.amazon.com/application-management/post/Tx32RHFZHXY6ME1/Set-up-a-build-pipeline-with-Jenkins-and-Amazon-ECS>
 - Node.js Basics
    - <http://nodeschool.io/#workshopper-list>
+   - (I want to be able to implement this) <https://github.com/Kount/access-api-clients/tree/master/nodejs/kount-access-api>
 - Ember.js Basics
    - <https://www.quora.com/What-is-the-best-way-to-learn-Ember-js>
    - <https://www.codeschool.com/courses/warming-up-with-ember-js>
+- Refresh on my SQL-fu
 
 ## Activities
 - Climb at least once a week
