@@ -9,7 +9,7 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 
 ## Gaming
 - Reach rank 150 in Puzzle and Dragons
-- Reach rank 30 in Love Live School Idol Festival
+- Reach rank 30 in Love Live! School Idol Festival
 - Complete the Single Player questline in Mabinogi Duel
 
 ## Professional Learning / Hobbyist Coding
@@ -28,8 +28,27 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
  
 ## Progress Bars
 
-### Puzzle and Dragons
-| Date | 12/14 |
-| ---  | ---   |
-| **Rank** | 109   |
+### Puzzle and Dragons Rank Tracker
+| Date     | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
+| ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Rank** |       |       |       |       |       |       |       |
+| Date     | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
+| ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Rank** |       |       |       |       |       |       |       |
+
+### Love Live! School Idol Festival Rank Tracker
+| Date     | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
+| ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Rank** |       |       |       |       |       |       |       |
+| Date     | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
+| ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Rank** |       |       |       |       |       |       |       |
+
+### Mabinogi Duel Campaign Progress
+| Date        | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
+| ---         | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Chapter** |       |       |       |       |       |       |       |
+| Date        | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
+| ---         | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
+| **Chapter** |       |       |       |       |       |       |       |
 
