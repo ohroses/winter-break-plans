@@ -32,6 +32,7 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 | Date     | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
 | ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Rank** |       |       |       |       |       |       |       |
+
 | Date     | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
 | ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Rank** |       |       |       |       |       |       |       |
@@ -40,6 +41,7 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 | Date     | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
 | ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Rank** |       |       |       |       |       |       |       |
+
 | Date     | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
 | ---      | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Rank** |       |       |       |       |       |       |       |
@@ -48,6 +50,7 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 | Date        | 12/20 | 12/21 | 12/22 | 12/23 | 12/24 | 12/25 | 12/26 |
 | ---         | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Chapter** |       |       |       |       |       |       |       |
+
 | Date        | 12/27 | 12/28 | 12/29 | 12/30 | 12/31 | 01/01 | 01/02 |
 | ---         | ---   | ---   | ---   | ---   | ---   | ---   | ---   |
 | **Chapter** |       |       |       |       |       |       |       |
