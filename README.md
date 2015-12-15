@@ -25,6 +25,7 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 
 ## Project Hack Ideas
 - League of Legends Ranked 5's Team Member Analyzer
+   - Pull League of Legends API on Champion Winrate of Players and Statistically Produce Team Comps/Bans 
 - A Personal Microblog
 
 ## Activities
