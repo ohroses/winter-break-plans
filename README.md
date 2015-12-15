@@ -23,6 +23,10 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
    - <https://www.codeschool.com/courses/warming-up-with-ember-js>
 - Refresh on my SQL-fu
 
+## Project Hack Ideas
+- League of Legends Ranked 5's Team Member Analyzer
+- A Personal Microblog
+
 ## Activities
 - Climb at least once a week
 - Hike at least once a week
