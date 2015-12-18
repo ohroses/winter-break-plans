@@ -1,0 +1,11 @@
+- Climbing shoes
+- PS Vita
+- Wii U (pending investigation of packing ability)
+- Camelbak (need to empty)
+- Hiking Shoes
+- Running Shoes
+- 1 wk outside clothes
+- 2 set workout clothes
+- 2 set pajamas
+- Laptop
+- Mobile Companion
