@@ -8,8 +8,8 @@ As I will not be at home, I am focusing on learning objectives that I can conduc
 Accepting pull requests of Mobile Games to try and online resources (or comments on existing links) to help with my professional learning.
 
 ## Gaming
-- Reach rank 150 in Puzzle and Dragons
-- Reach rank 30 in Love Live! School Idol Festival
+- Reach rank 140 in Puzzle and Dragons
+- Reach rank 20 in Love Live! School Idol Festival
 - Complete the Single Player questline in Mabinogi Duel
 
 ## Professional Learning / Hobbyist Coding
