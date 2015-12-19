@@ -9,6 +9,8 @@ Accepting pull requests of Mobile Games to try and online resources (or comments
 
 ## Gaming
 - Reach rank 140 in Puzzle and Dragons
+- Complete <http://puzzledragonx.com/en/mission.asp?m=810>
+- Complete at least 1 descended dungeon in Puzzle and Dragons
 - Reach rank 20 in Love Live! School Idol Festival
 - Complete the Single Player questline in Mabinogi Duel
 
